@@ -1,0 +1,5 @@
+2020,Mazda,190,azul,
+2002,Tesla,200,rojo,
+2008,Volkswagen,300,verde,
+2014,Mazda,220,verde,
+2000,Toyota,89,rojo,
